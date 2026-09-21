@@ -1,8 +1,7 @@
-# Trust-Protocol
-Trust Overlay Layer
+# Trust Protocol (Trust Overlay Layer)
 > **The Cryptographic Verification Layer for Global Supply Chains, Finance, and Enterprise Cloud.**
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Status: Phase 0 - Research & Scaffolding](https://img.shields.io/badge/Status-Phase%200%3A%20Scaffolding-orange.svg)]()
 [![zkVM: Enabled](https://img.shields.io/badge/zkVM-Rust%20%2F%20Circom-green.svg)]()
 
